@@ -1,0 +1,26 @@
+{
+  "name": "ytmp3",
+  "version": "1.1.0",
+  "description": "A simple CLI tool to download YouTube playlists as MP3 files",
+  "main": "ytmp3.js",
+  "bin": {
+    "ytmp3": "./ytmp3.js"
+  },
+  "scripts": {
+    "start": "node ytmp3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "mp3",
+    "download",
+    "cli",
+    "yt-dlp"
+  ],
+  "author": "Jordan Smalls",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
