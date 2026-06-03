@@ -1,6 +1,6 @@
-# yt-mp3
+<img src="https://i.ibb.co/SXzMJF3s/ytmp3.jpg" alt="">
 
-a simple and fast, CLI tool to download batch youtube videos as mp3 files. built on top of yt-dlp and ffmpeg.
+<p style="text-align: center;"><span style="font-weight: bold;">yt-mp3 </span>is a simple and fast, CLI tool to download batch youtube videos as mp3 files, built on top of yt-dlp and ffmpeg.</p>
 
 ## Versions
 
